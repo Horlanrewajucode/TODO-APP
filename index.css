@@ -38,7 +38,7 @@ div.container{
       background-color: #edeef0;
       border-radius: 30px;
       padding-left: 20px;
-      margin: 10px 0 0 20px;
+      margin: 10px  0 20px;
       
 
       & input {
@@ -51,7 +51,7 @@ div.container{
 
       & button{
         border: none;
-        padding: 15px 50px;
+        padding: 15px 25px;
         background-color: #ff5945;
         color: #fff;
         border-radius: 40px;
@@ -95,7 +95,7 @@ ul li span{
   position: absolute;
   right: 0px;
   top: 5px;
-  width: 40px;
+  width: 0px;
   height: 40px;
   font-size: 22px;
   color: #555;
